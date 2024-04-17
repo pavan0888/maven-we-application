@@ -97,7 +97,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://15.206.164.161:8081/repository/market-release/</url>
+	      <url>http ://15.206.164.161:8081/repository/market-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
